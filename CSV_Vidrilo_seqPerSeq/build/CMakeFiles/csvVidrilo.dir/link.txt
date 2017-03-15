@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/csvVidrilo.dir/ImageTags.cpp.o CMakeFiles/csvVidrilo.dir/main.cpp.o  -o csvVidrilo -rdynamic libfiles.a 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ed/Documents/Proyecto_2/CSV_Vidrilo/CSV_Vidrilo/fileMethods/fileMethods.cpp
+fileMethods.h
+/home/ed/Documents/Proyecto_2/CSV_Vidrilo/CSV_Vidrilo/fileMethods/fileMethods.h
+
+/home/ed/Documents/Proyecto_2/CSV_Vidrilo/CSV_Vidrilo/fileMethods/fileMethods.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+

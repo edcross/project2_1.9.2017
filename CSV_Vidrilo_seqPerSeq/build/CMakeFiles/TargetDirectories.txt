@@ -1,0 +1,4 @@
+/home/ed/Documents/Proyecto_2/CSV_Vidrilo/CSV_Vidrilo/build/CMakeFiles/rebuild_cache.dir
+/home/ed/Documents/Proyecto_2/CSV_Vidrilo/CSV_Vidrilo/build/CMakeFiles/csvVidrilo.dir
+/home/ed/Documents/Proyecto_2/CSV_Vidrilo/CSV_Vidrilo/build/CMakeFiles/edit_cache.dir
+/home/ed/Documents/Proyecto_2/CSV_Vidrilo/CSV_Vidrilo/build/CMakeFiles/files.dir

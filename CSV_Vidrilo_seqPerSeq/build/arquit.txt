@@ -1,0 +1,15 @@
+.GoogleCloudVision
+_Hybrid
+_Hybrid_111
+_ImageNetAlexNet
+_ImageNetAlexNet_100
+_ImageNetAlexNet_29
+_ImageNetAlexNet_352
+_ImageNetAlexNet_404
+_ImageNetAlexNet_677
+_ImageNetCaffeNet
+_ImageNetGoogLeNet
+_ImageNetVGG
+_Places365GoogLeNet
+_PlacesAlexNet
+_PlacesGoogLeNet
